@@ -1,7 +1,6 @@
 cvzone
+opencv-python
 streamlit
 numpy
-pillow
-opencv-python
-google.generativeai
-
+Pillow
+google-generativeai
