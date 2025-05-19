@@ -107,6 +107,8 @@ while True:
     # cv2.imshow("Canvas", canvas)
     # cv2.imshow("image_combined", image_combined)
  
+
+ 
  
     # Keep the window open and update it for each frame; wait for 1 millisecond between frames
     cv2.waitKey(1)
